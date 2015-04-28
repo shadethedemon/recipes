@@ -6,7 +6,7 @@ categories: desert
 ---
 
 ## Ingredients
-- 1 cup butter, softened
+- 1/2 cup butter, softened
 - 1 cup white sugar
 - Raisins
 - Banana
